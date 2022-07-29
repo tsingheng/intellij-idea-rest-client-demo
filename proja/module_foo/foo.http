@@ -1,0 +1,12 @@
+POST {{url}}/post
+Content-Type: application/json
+appid: {{appid}}
+timestamp: {{timestamp}}
+requestid: {{requestid}}
+signature: {{signature}}
+
+
+{
+  "id": 999,
+  "value": "content"
+}
