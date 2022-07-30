@@ -24,4 +24,3 @@ function guid() {
         return v.toString(16);
     });
 }
-guid() // "a1ca0f7b-51bd-4bf3-a5d5-6a74f6adc1c7"
